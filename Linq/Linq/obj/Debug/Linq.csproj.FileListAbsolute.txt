@@ -1,0 +1,7 @@
+E:\sem7\.net\Linq\Linq\bin\Debug\Linq.exe.config
+E:\sem7\.net\Linq\Linq\bin\Debug\Linq.exe
+E:\sem7\.net\Linq\Linq\bin\Debug\Linq.pdb
+E:\sem7\.net\Linq\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+E:\sem7\.net\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+E:\sem7\.net\Linq\Linq\obj\Debug\Linq.exe
+E:\sem7\.net\Linq\Linq\obj\Debug\Linq.pdb

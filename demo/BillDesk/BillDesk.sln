@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.vbproj", "{311DB79E-043A-429D-ADC2-9E201E133D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{7DE7515E-E1E0-45FF-9B3F-91CC8760C4A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "presentationlayer", "presentationlayer\presentationlayer.csproj", "{053B3E39-04BB-4718-8E29-C3CAFF300A49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{311DB79E-043A-429D-ADC2-9E201E133D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311DB79E-043A-429D-ADC2-9E201E133D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{311DB79E-043A-429D-ADC2-9E201E133D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311DB79E-043A-429D-ADC2-9E201E133D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE7515E-E1E0-45FF-9B3F-91CC8760C4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE7515E-E1E0-45FF-9B3F-91CC8760C4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE7515E-E1E0-45FF-9B3F-91CC8760C4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE7515E-E1E0-45FF-9B3F-91CC8760C4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{053B3E39-04BB-4718-8E29-C3CAFF300A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053B3E39-04BB-4718-8E29-C3CAFF300A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053B3E39-04BB-4718-8E29-C3CAFF300A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053B3E39-04BB-4718-8E29-C3CAFF300A49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D236A409-4675-49C6-AA54-2E88D262DC82}
+	EndGlobalSection
+EndGlobal

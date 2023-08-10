@@ -1,0 +1,7 @@
+E:\sem7\.net\Matrix\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\sem7\.net\Matrix\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\sem7\.net\Matrix\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\sem7\.net\Matrix\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\sem7\.net\Matrix\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\sem7\.net\Matrix\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\sem7\.net\Matrix\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

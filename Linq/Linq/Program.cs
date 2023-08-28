@@ -47,7 +47,7 @@ namespace Linq
 
             Console.ReadKey();
         }
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             List<Student> students = new List<Student>();
             students.Add(new Student { Id = 1, Name = "abc", Age = 24, Description = "sports" });
@@ -83,6 +83,63 @@ namespace Linq
             {
                 Console.WriteLine(d);
             }
+            Console.ReadKey();
+        }
+
+        static void Main(string[] args)
+        {
+            int[] data = { 78, 28, 74, 2, 10, 6, 7, 45, 28, 15 };
+
+
+            var sorteddata = (from d in data
+                             orderby d
+                             select d).ToArray();
+            foreach (var item in sorteddata)
+            {
+                Console.WriteLine(item);
+            }
+            var mean = sorteddata.Average();
+
+            Console.WriteLine("Mean : " + mean);
+
+          
+
+
+            if ((sorteddata.Count()) % 2 ==0)
+            {
+                var i1 = (sorteddata.Count()/2 - 1);
+               
+                var median =(double) (sorteddata[i1]+sorteddata[i1+1])/2;
+                Console.WriteLine("Median : " + median);
+            }
+            else
+            {
+                int i1 = ((sorteddata.Count()+1) / 2 );
+               
+                Console.WriteLine("Median : " + sorteddata[i1]);
+            }
+
+            int max = 0;
+            var mode = 0;
+
+            //Console.WriteLine(temp);
+            foreach (var item in sorteddata)
+            {
+                var temp = sorteddata.Count(element => element == item);
+
+
+                if (temp > max)
+                {
+                   
+                    max = temp;
+                    mode = item;
+                }
+
+                Console.WriteLine(temp+" "+item);
+            }
+
+            Console.WriteLine("Mode :" + mode);
+
             Console.ReadKey();
         }
     }

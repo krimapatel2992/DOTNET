@@ -5,3 +5,10 @@ E:\sem7\.net\Matrix\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.Assembl
 E:\sem7\.net\Matrix\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 E:\sem7\.net\Matrix\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 E:\sem7\.net\Matrix\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+B:\Sem7_48\602\dotnet-602\Matrix\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+B:\Sem7_48\602\dotnet-602\Matrix\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+B:\Sem7_48\602\dotnet-602\Matrix\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+B:\Sem7_48\602\dotnet-602\Matrix\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+B:\Sem7_48\602\dotnet-602\Matrix\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+B:\Sem7_48\602\dotnet-602\Matrix\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+B:\Sem7_48\602\dotnet-602\Matrix\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

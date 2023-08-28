@@ -1,0 +1,7 @@
+B:\Sem7_48\602\dotnet-602\question3\question3\bin\Debug\question3.exe.config
+B:\Sem7_48\602\dotnet-602\question3\question3\bin\Debug\question3.exe
+B:\Sem7_48\602\dotnet-602\question3\question3\bin\Debug\question3.pdb
+B:\Sem7_48\602\dotnet-602\question3\question3\obj\Debug\question3.csproj.AssemblyReference.cache
+B:\Sem7_48\602\dotnet-602\question3\question3\obj\Debug\question3.csproj.CoreCompileInputs.cache
+B:\Sem7_48\602\dotnet-602\question3\question3\obj\Debug\question3.exe
+B:\Sem7_48\602\dotnet-602\question3\question3\obj\Debug\question3.pdb

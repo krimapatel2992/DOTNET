@@ -5,3 +5,10 @@ E:\sem7\.net\Linq\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
 E:\sem7\.net\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
 E:\sem7\.net\Linq\Linq\obj\Debug\Linq.exe
 E:\sem7\.net\Linq\Linq\obj\Debug\Linq.pdb
+B:\Sem7_48\602\dotnet-602\Linq\Linq\bin\Debug\Linq.exe.config
+B:\Sem7_48\602\dotnet-602\Linq\Linq\bin\Debug\Linq.exe
+B:\Sem7_48\602\dotnet-602\Linq\Linq\bin\Debug\Linq.pdb
+B:\Sem7_48\602\dotnet-602\Linq\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+B:\Sem7_48\602\dotnet-602\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+B:\Sem7_48\602\dotnet-602\Linq\Linq\obj\Debug\Linq.exe
+B:\Sem7_48\602\dotnet-602\Linq\Linq\obj\Debug\Linq.pdb

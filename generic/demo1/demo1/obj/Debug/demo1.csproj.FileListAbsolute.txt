@@ -1,0 +1,2 @@
+B:\Sem7_48\602\dotnet-602\generic\demo1\demo1\obj\Debug\demo1.csproj.AssemblyReference.cache
+B:\Sem7_48\602\dotnet-602\generic\demo1\demo1\obj\Debug\demo1.csproj.CoreCompileInputs.cache

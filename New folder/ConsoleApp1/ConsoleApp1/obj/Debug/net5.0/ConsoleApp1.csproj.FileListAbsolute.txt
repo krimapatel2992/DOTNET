@@ -1,0 +1,32 @@
+B:\Sem7_48\602\dotnet-602\question2\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+B:\Sem7_48\602\dotnet-602\question2\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+B:\Sem7_48\602\dotnet-602\question2\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+B:\Sem7_48\602\dotnet-602\question2\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+B:\Sem7_48\602\dotnet-602\question2\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+B:\Sem7_48\602\dotnet-602\question2\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+B:\Sem7_48\602\dotnet-602\question2\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+B:\Sem7_48\602\dotnet-602\question2\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+B:\Sem7_48\602\dotnet-602\question2\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+B:\Sem7_48\602\dotnet-602\question2\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+B:\Sem7_48\602\dotnet-602\question2\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+B:\Sem7_48\602\dotnet-602\question2\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+B:\Sem7_48\602\dotnet-602\question2\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+B:\Sem7_48\602\dotnet-602\question2\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+B:\Sem7_48\602\dotnet-602\question2\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+B:\Sem7_48\602\dotnet-602\question2\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+B:\Sem7_48\602\dotnet-602\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+B:\Sem7_48\602\dotnet-602\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+B:\Sem7_48\602\dotnet-602\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+B:\Sem7_48\602\dotnet-602\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+B:\Sem7_48\602\dotnet-602\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+B:\Sem7_48\602\dotnet-602\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+B:\Sem7_48\602\dotnet-602\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+B:\Sem7_48\602\dotnet-602\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+B:\Sem7_48\602\dotnet-602\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+B:\Sem7_48\602\dotnet-602\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+B:\Sem7_48\602\dotnet-602\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+B:\Sem7_48\602\dotnet-602\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+B:\Sem7_48\602\dotnet-602\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+B:\Sem7_48\602\dotnet-602\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+B:\Sem7_48\602\dotnet-602\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+B:\Sem7_48\602\dotnet-602\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

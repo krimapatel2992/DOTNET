@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="studentdemoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CourseTb">
+    <Key>
+      <PropertyRef Name="CourseId" />
+    </Key>
+    <Property Name="CourseId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CourseName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="StudentTbs" Relationship="Self.FK_Table_ToTable" FromRole="CourseTb" ToRole="StudentTb" />
+  </EntityType>
+  <EntityType Name="StudentTb">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="semester" Type="Int32" Nullable="false" />
+    <Property Name="CourseId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CourseTb" Relationship="Self.FK_Table_ToTable" FromRole="StudentTb" ToRole="CourseTb" />
+  </EntityType>
+  <Association Name="FK_Table_ToTable">
+    <End Role="CourseTb" Type="Self.CourseTb" Multiplicity="1" />
+    <End Role="StudentTb" Type="Self.StudentTb" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CourseTb">
+        <PropertyRef Name="CourseId" />
+      </Principal>
+      <Dependent Role="StudentTb">
+        <PropertyRef Name="CourseId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="studentdemoEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CourseTbs" EntityType="Self.CourseTb" />
+    <EntitySet Name="StudentTbs" EntityType="Self.StudentTb" />
+    <AssociationSet Name="FK_Table_ToTable" Association="Self.FK_Table_ToTable">
+      <End Role="CourseTb" EntitySet="CourseTbs" />
+      <End Role="StudentTb" EntitySet="StudentTbs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
